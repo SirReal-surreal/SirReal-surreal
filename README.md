@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirReal-surreal
-- 👀 Because I got several requests on my YouTube channel, I will publish my code (mainly Node-RED) here!
+- 👀 Because I got several requests on my YouTube channel, I will publish my code here!
 - 📫 My YouTube channel: https://www.youtube.com/channel/UCVZnI4NKV_tzhKBkVcc7gkw
 
 <!---
